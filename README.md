@@ -1,5 +1,6 @@
 ### Hi there 👋
-#### I'm Anna oriekhova
+#### I'm Anna Oriekhova
+I started a new life in the Netherlands because of the war in Ukraine. I am currently studying at the Hack Your Future course and want to create a career It-Development.
 <!--
 **anutka2610/anutka2610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
